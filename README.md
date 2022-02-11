@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+callapp contacts 是什麼?
+
+我的手機完全亂了////
+請問各位大大 我要如何解除callapp contacts
+沒有中文我真的不知道大家在說什麼.......
+大家可以教我怎麼回擊他嗎?
+我也想要給他植入病毒
 
 <!---
 rockrock222/rockrock222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
